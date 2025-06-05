@@ -378,10 +378,10 @@ id  name          🎟️ coupon public                                         
 ```
 
 ## Related repos
-- OCEX [coupon activation dapp](https://github.com/bsn-si/ocex-activation)
-- OCEX [Ink! smart contract](https://github.com/bsn-si/ocex-smartcontract)
-- OCEX smart contract [API client](https://github.com/bsn-si/ocex-api)
-- JS/Wasm [library](https://github.com/bsn-si/ocex-coupon-signature) for coupon activation signatures
+- OCEX [coupon activation dapp](https://github.com/Boring-Software-Nation/ocex-activation)
+- OCEX [Ink! smart contract](https://github.com/Boring-Software-Nation/ocex-smartcontract)
+- OCEX smart contract [API client](https://github.com/Boring-Software-Nation/ocex-api)
+- JS/Wasm [library](https://github.com/Boring-Software-Nation/ocex-coupon-signature) for coupon activation signatures
 
 ## License
-[Apache License 2.0](https://github.com/bsn-si/ocex-cli/blob/main/LICENSE) © Bela Supernova ([bsn.si](https://bsn.si))
+[Apache License 2.0](https://github.com/Boring-Software-Nation/ocex-cli/blob/main/LICENSE) © Boring Software Nation ([bsn.si](https://bsn.si))
